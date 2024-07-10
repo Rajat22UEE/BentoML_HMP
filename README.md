@@ -1,4 +1,3 @@
-﻿# Vite_React
-
-clone repo <br/>
-type "npm install" and code your project
+﻿#Background changer with React 
+ 
+ This is a simple background changer with React. 
